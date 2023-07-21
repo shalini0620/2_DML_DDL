@@ -1,6 +1,6 @@
 # 2_DML_DDL
     Mega Internship Program 2023-2024
-    Task 1 completed 
+    Task completed 
       a) 1_SQL_table_creation
         - 'MySQL' Workbench
         -  A table has been created and data has been inserted into it.
